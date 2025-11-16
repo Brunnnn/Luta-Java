@@ -26,8 +26,8 @@ public class App {
 
         UEC01.lutar(3);
 
-        l[0].status();
-        l[5].status();
+        //l[0].status();
+        //l[5].status();
 
         
 
